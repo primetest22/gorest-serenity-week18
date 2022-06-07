@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="4" failures="0" name="in.co.gorest.gorestapiInfo.UserCURDTest" skipped="0" tests="10" time="17.42" timestamp="2022-06-07T23:48:38.252+01:00[Europe/London]"><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test001"/><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test002"/><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test003"/><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test004"/><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test005"/><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test006"><error message="Index: 0, Size: 0" type="java.lang.IndexOutOfBoundsException">Index: 0, Size: 0</error><system-err>Index: 0, Size: 0&#13;
+in.co.gorest.gorestapiInfo.UserCURDTest.test006(UserCURDTest.java:76)&#13;
+</system-err></testcase><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test007"><error message="Index: 0, Size: 0" type="java.lang.IndexOutOfBoundsException">Index: 0, Size: 0</error><system-err>Index: 0, Size: 0&#13;
+in.co.gorest.gorestapiInfo.UserCURDTest.test007(UserCURDTest.java:82)&#13;
+</system-err></testcase><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test008"/><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test009"><error message="Index: 0, Size: 0" type="java.lang.IndexOutOfBoundsException">Index: 0, Size: 0</error><system-err>Index: 0, Size: 0&#13;
+in.co.gorest.gorestapiInfo.UserCURDTest.test009(UserCURDTest.java:99)&#13;
+</system-err></testcase><testcase classname="in.co.gorest.gorestapiInfo.UserCURDTest" name="Test010"><error message="Index: 0, Size: 0" type="java.lang.IndexOutOfBoundsException">Index: 0, Size: 0</error><system-err>Index: 0, Size: 0&#13;
+in.co.gorest.gorestapiInfo.UserCURDTest.test010(UserCURDTest.java:106)&#13;
+</system-err></testcase></testsuite>
